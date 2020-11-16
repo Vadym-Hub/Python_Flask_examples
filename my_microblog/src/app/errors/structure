@@ -1,0 +1,9 @@
+app/
+    errors/                             <-- blueprint пакет
+        __init__.py                     <-- blueprint создание
+        handlers.py                     <-- error обработчики
+    templates/
+        errors/                         <-- error шаблоны
+            404.html
+            500.html
+    __init__.py                         <-- blueprint регистрация

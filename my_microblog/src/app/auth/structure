@@ -1,0 +1,13 @@
+app/
+    auth/                               <-- blueprint пакет
+        __init__.py                     <-- blueprint создание
+        email.py                        <-- authentication emails
+        forms.py                        <-- authentication forms
+        routes.py                       <-- authentication routes
+    templates/
+        auth/                           <-- blueprint шаблоны
+            login.html
+            register.html
+            reset_password_request.html
+            reset_password.html
+    __init__.py                         <-- blueprint регистрация

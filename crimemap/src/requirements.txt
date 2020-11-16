@@ -1,0 +1,17 @@
+asgiref==3.3.0
+click==7.1.2
+dateparser==1.0.0
+dbconfig==0.3.2
+Django==3.1.3
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+PyMySQL==0.10.1
+python-dateutil==2.8.1
+pytz==2020.4
+regex==2020.10.28
+six==1.15.0
+sqlparse==0.4.1
+tzlocal==2.1
+Werkzeug==1.0.1

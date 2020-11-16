@@ -1,0 +1,35 @@
+set FLASK_APP=microblog.py
+set FLASK_DEBUG=1
+
+flask run
+
+flask db init
+flask db migrate
+flask db upgrade
+flask db downgrade
+
+flask shell
+
+
+pip install flask-wtf
+
+pip install flask-sqlalchemy
+pip install flask-migrate
+
+pip install flask-login
+pip install email_validator
+
+pip install flask-mail
+pip install pyjwt
+
+pip install flask-bootstrap
+
+pip install flask-moment
+
+pip install flask-babel
+
+pip install guess-language_spirit
+
+
+
+https://habr.com/ru/post/354322/
