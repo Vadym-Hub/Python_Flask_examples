@@ -1,1 +1,1 @@
-Python_Flask_examples
+Здесь собраны все учебные проекты по Flask.
