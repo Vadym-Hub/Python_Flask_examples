@@ -1,0 +1,4 @@
+# Запускаем сервер
+python server.py
+# Запускаем клиентскую часть
+python messenger.py
